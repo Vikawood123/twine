@@ -1,5 +1,5 @@
 # twine
-1. Добавление раздела [[Далтьше]]
+1. Добавление раздела [[Дальше]]
 2. Добавление картинки персонажа <img src = "https://github.com/Vikawood123/twine/blob/main/kandinsky-download-1761047079332.png?raw=true">
 ```
 <img src = "https://github.com/Vikawood123/twine/blob/main/kandinsky-download-1761047079332.png?raw=true">
