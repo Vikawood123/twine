@@ -5,6 +5,7 @@
 <img src = "https://github.com/Vikawood123/twine/blob/main/kandinsky-download-1761047079332.png?raw=true">
 ```
 3. добавление фона
+```
 tw-story {
   background-image: url('https://github.com/Vikawood123/twine/blob/main/kandinsky-download-1761045957214.png?raw=true');
     background-size: cover
@@ -32,4 +33,5 @@ tw-story {
     max-width: 800px;
     z-index: 100;
 }
+
 ```
