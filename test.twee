@@ -1,0 +1,53 @@
+:: StoryTitle
+test
+
+
+:: StoryData
+{
+  "ifid": "3F8F70A1-B32A-4B6B-A5F4-F4AA0B8C7DD0",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Untitled Passage {"position":"900,375","size":"100,100"}
+Привет, я студентка этого коллежда
+
+<img src = "https://github.com/Vikawood123/twine/blob/main/kandinsky-download-1761047079332.png?raw=true">
+
+<div class="text-box">
+    девушка по имени вика сидит на занятии курса МДКд.12.01. Он записался на этот курс, потому что давно мечтал стать цифровым куратором и помогать людям осваивать современные технологии.
+    [[Дальше]]
+</div>
+
+
+:: Дальше {"position":"900,500","size":"100,100"}
+<div class="text-box">
+   МДКд.12.01. 
+</div>
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+  background-image: url('https://github.com/Vikawood123/twine/blob/main/kandinsky-download-1761045957214.png?raw=true');
+    background-size: cover
+}
+
+
+
+.text-box {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    max-width: 800px;
+    z-index: 100;
+}
